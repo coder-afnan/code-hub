@@ -68,11 +68,11 @@ const Footer = () => (
                 <p>Github</p>
             </div>
             <div class="icon-with-label">
-                <a href="https://discord.gg/KKjw6U7Stw"><img src="../Discord-logo.svg" alt="My Discord Server" oncontextmenu="return false" /></a>
+                <a href="https://discord.gg/KKjw6U7Stw"><img src="../assets/Discord-logo.svg" alt="My Discord Server" oncontextmenu="return false" /></a>
                 <p>Discord</p>
             </div>
             <div class="icon-with-label">
-                <a href="https://github.com/repo/form"><img src="../Form-logo.svg" alt="My Contact Form" oncontextmenu="return false" /></a>
+                <a href="https://github.com/repo/form"><img src="../assets/Form-logo.svg" alt="My Contact Form" oncontextmenu="return false" /></a>
                 <p>Contact form</p>
             </div>
         </div>

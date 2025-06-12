@@ -1,3 +1,3 @@
 # Python Projects
 
-Here you can view all my Python projects!
+In this folder you can view all my **Python** projects!

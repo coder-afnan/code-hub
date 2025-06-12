@@ -1,3 +1,7 @@
+// NOTE: This code is intended solely for educational purposes and to demonstrate file manipulation.
+// I do not take responsibility for any harmful or malicious use of the code.
+// This code simply generates a text file with specific size depending on the input.
+// So proceed and use it with caution!
 #include <iostream>
 #include <fstream>
 #include <filesystem>
